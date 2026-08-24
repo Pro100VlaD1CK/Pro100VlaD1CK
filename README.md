@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Pro100VlaD1CK/Pro100VlaD1CK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я занимаюсь разработкой внутренних веб-сервисов и автоматизацией рабочих процессов.
 
-Here are some ideas to get you started:
+Основной стек:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Docker`
+
+### Текущий проект
+
+🖨️ **Printer & Cartridge Accounting** — система учёта принтеров, картриджей, физических экземпляров и их перемещений.
+
+[Посмотреть проект →](https://github.com/Pro100VlaD1CK/printer-cartridge-accounting-showcase)
+
+---
+
+Сейчас изучаю и развиваюсь в сторону backend-разработки, автоматизации и информационной безопасности.
