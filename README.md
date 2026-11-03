@@ -6,12 +6,6 @@
 
 `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Docker`
 
-### Текущий проект
-
-🖨️ **Printer & Cartridge Accounting** — система учёта принтеров, картриджей, физических экземпляров и их перемещений.
-
-[Посмотреть проект →](https://github.com/Pro100VlaD1CK/printer-cartridge-accounting-showcase)
-
 ---
 
 Сейчас изучаю и развиваюсь в сторону backend-разработки, автоматизации и информационной безопасности.
